@@ -1,0 +1,93 @@
+https://fellowship.hackbrightacademy.com/materials/wmt5/homework/study-guide-week-8/
+
+Critical Topics¶
+Runtime Concepts
+
+    Big O Notation
+
+    Why it’s important to think about runtime
+
+        Interviews (be able to describe the runtime of your own solutions)
+
+        A language to describe algorithm efficiency, and compare alternate solutions
+
+    Runtimes to know
+
+        Constant, or O(1): even when size of work increases, length of time is always the same
+
+        Linear, or O(n): as size of work increases, length of time the algorithm takes increases linearly
+
+        Logarithmic: binary searches (looking up a word in a dictionary, for example); the work is divided in half with each iteration of the algorithm
+
+            O(log n)
+
+            O(n log n) (do something with O(log n), n times)
+
+        Quadratic, or O(n2): nested for-loops, typically
+
+        Exponential: password cracking algorithms, for example
+
+            O(2n), O(3n), etc.
+
+        Factorial, or O(n!)
+
+
+
+
+
+
+
+
+
+
+
+Stacks and Queues Concepts
+
+    Concepts, not implementations
+
+        Stacks and queues are ways to manage and process information
+
+        You can build a stack or queue out of different implementations (lists, linked lists, etc)
+
+    Stack: LIFO
+last in and first out
+
+    Queue: FIFO
+first in and first out
+
+
+
+
+
+
+
+
+
+
+
+Linked Lists Concepts
+
+    A data structure for storing an iterable collection
+
+    Can be used similarly to a regular Python list (“array”)
+
+    But have performance differences
+
+
+
+
+
+
+
+
+
+
+
+Trees Concepts
+
+    Trees: storing hierarchical data (org charts, taxonomies)
+
+    Binary Search Trees: searching a binary tree using a “rule”
+
+    Navigating trees using BFS and DFS
+
