@@ -6,11 +6,11 @@ Runtime Concepts
     Big O Notation
 
     Why it’s important to think about runtime
-
+-efficiency...time > storage
         Interviews (be able to describe the runtime of your own solutions)
-
+-my program is big o of 1, big o of log n, big o of n....OR constant, logarithmic, linear
         A language to describe algorithm efficiency, and compare alternate solutions
-
+big o notation
     Runtimes to know
 
         Constant, or O(1): even when size of work increases, length of time is always the same
